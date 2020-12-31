@@ -12,7 +12,7 @@ body{
 
 .logo
 {
-	display: inline;
+    display: inline;
     float: left;
     margin-left: 5px;
     margin-top: 10px;
@@ -20,12 +20,13 @@ body{
 
 .heading
 {
-	white-space: nowrap;
+    white-space: nowrap;
     display: inline;
     float: right;
     margin-top: 20px;
-    margin-right: 30%;
+    margin-right: 35%;
     font-size: large;
+    font-weight: bold;
     text-decoration: none;
     color: black;
     font-family: "Lucida Console", "Courier New", monospace;
